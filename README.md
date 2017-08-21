@@ -2,7 +2,7 @@
 
 Hi,
 welcome to the OS P/Refugium Meta-Interface.
-This is my final project of the the course "Software, Artware, Nowhere", 
+This is my final project of the course "Software, Artware, Nowhere", 
 taught by Jonathan Reus and Rosa Menkmann at Leuphana University/HMS in 2017. 
 Feel free to copy and download my code!
 
@@ -17,3 +17,5 @@ PyQt5.QtMultimedia
 ui_camera 
 ui_imagesettings 
 ui_videosettings 
+
+Have fun in P/Refugium!
